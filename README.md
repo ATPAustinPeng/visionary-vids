@@ -1,4 +1,7 @@
 # Joint Moment Retrieval and Highlight Detection Via Natural Language Queries
+## Paper
+- [arXiv](https://arxiv.org/abs/2305.04961)
+- [Papers With Code](https://paperswithcode.com/paper/joint-moment-retrieval-and-highlight)
 
 ## Installation
 
